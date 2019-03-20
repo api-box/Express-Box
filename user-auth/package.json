@@ -1,0 +1,24 @@
+{
+  "name": "user-auth",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/indexjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/api-box/Express-Box.git"
+  },
+  "author": "HubCodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/api-box/Express-Box/issues"
+  },
+  "homepage": "https://github.com/api-box/Express-Box#readme",
+  "dependencies": {
+    "inversify": "^5.0.1",
+    "inversify-express-utils": "^6.3.2",
+    "reflect-metadata": "^0.1.13"
+  }
+}
