@@ -8,7 +8,7 @@ import { applyMiddleware } from "./init/middleware";
 import bodyParser from "body-parser";
 import helmet from "helmet";
 
-import TYPES from "./injectable/list";
+import TYPES from "./injectableList";
 
 const container = new Container();
 const config = getConfig();
